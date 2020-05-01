@@ -1,2 +1,2 @@
-# ritik119.github.io
-portfolio
+# portfolio
+ritik119.github.io
